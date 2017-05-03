@@ -1,0 +1,23 @@
+Cameron Larson
+CSC352
+HW1
+
+01. ls -l /usr/bin
+02. man xargs
+03. mkdir myDir
+04. cd ..
+05. cd /a/b/x/y
+06. cd x/y
+07. cp orig copy
+*08. cp -R dir1 dir2
+09. ls b*
+10. ls -l *.txt
+11. ls > files
+12. diff expected actual
+13. wc -l asdf
+14. grep HELLO records
+15. grep HELLO records | wc -l
+16. cat foo bar
+17. mv old new
+18. mv misplaced putHere
+19. rm badFile
