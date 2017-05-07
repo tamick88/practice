@@ -7,11 +7,11 @@ HW1
 03. mkdir myDir
 04. cd ..
 05. cd /a/b/x/y
-06. cd x/y
+*06. cd x/y
 07. cp orig copy
 *08. cp -R dir1 dir2
-09. ls b*
-10. ls -l *.txt
+*09. ls b*
+*10. ls -l *.txt
 11. ls > files
 12. diff expected actual
 13. wc -l asdf

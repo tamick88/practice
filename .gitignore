@@ -7,6 +7,9 @@
 *.o
 *.out
 *.so
+*.c.gcov
+*.gcda
+*.gcno
 
 # Packages #
 ############
